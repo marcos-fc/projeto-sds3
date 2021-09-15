@@ -26,9 +26,9 @@ public class Seller {
 		
 	}
 
-	public Seller(Long id, String nome, List<Sale> sales) {
+	public Seller(Long id, String name, List<Sale> sales) {
 		this.id = id;
-		this.name = nome;
+		this.name = name;
 		this.sales = sales;
 	}
 
@@ -40,12 +40,12 @@ public class Seller {
 		this.id = id;
 	}
 
-	public String getNome() {
+	public String getName() {
 		return name;
 	}
 
-	public void setNome(String nome) {
-		this.name = nome;
+	public void setName(String name) {
+		this.name = name;
 	}
 
 	public List<Sale> getSales() {
