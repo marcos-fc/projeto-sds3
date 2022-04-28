@@ -1,16 +1,16 @@
 # Sales Dashboard
-  Esse projeto é uma aplicação web de painel de vendas que mostra uma lista com todas as vendas, com informações de data, nome do vendedor, números de clientes visitados, números de negócios fechados e valor.
-  Além de mostrar uma taxa de sucesso representada por dois gráficos distintos, um gráfico de barra e outro de rosca.
-  # Tecnologias utilizadas para construção do projeto
+  This project is a sales dashboard web application that shows a list of all sales, with date information, seller name, numbers of customers visited, numbers of deals closed, and value.
+  It also shows a success rate represented by two different graphs, a bar chart and a pie chart.
+  # Technologies used to build the project
   ## Frontend
   * **Typescript**
   * **Framework react**
   * **Bootstrap**
   ## Backend
-  * **Java versão 11**
+  * **Java version 11**
   * **Framework spring**
   * **PostgreSQL**
-  ## Teste e deploy
+  ## Test and deploy
   * **Postman**
   * **Netlify**
   * **Heroku**
